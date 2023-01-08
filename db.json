@@ -2,6 +2,7 @@
   "posts": [
     {
       "id": 1,
+      "postid": 1,
       "username": "Roshan Kumar",
       "user_desc": "Sports Enthusiast",
       "title": "The Italian sport press is arguing that the current Juventus team is the weakest in the last nine years. Do you agree? Why or why not?",
@@ -10,12 +11,23 @@
       "category": "Sports",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-bf5992f3150029ed554dc666b2dbb76e",
       "views": "43k",
-      "upvotes": "678",
+      "upvotes": 49,
       "comments": "20",
-      "shares": "33"
+      "a": [
+        {
+          "name": "roshan",
+          "comment": "nice"
+        },
+        {
+          "name": "roshan"
+        }
+      ],
+      "shares": "33",
+      "name": "roshan"
     },
     {
       "id": 2,
+      "postid": 2,
       "username": "Mayank Sharma",
       "user_desc": "Sports lover and enthusiast",
       "title": "What Olympians have tried to sell their gold medals?",
@@ -24,12 +36,13 @@
       "category": "Sports",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-a1e0129fbb5221ddd676a6171af5a19d-lq",
       "views": "244.7K",
-      "upvotes": "1.6K",
+      "upvotes": 20,
       "comments": "34",
       "shares": "36"
     },
     {
       "id": 3,
+      "postid": 3,
       "username": "Bhaskar Ganesh Naik",
       "user_desc": "World cup follower",
       "title": "Mbappé’s astonishing performance further confirmed in the World Cup 2022, do you agree?",
@@ -38,12 +51,13 @@
       "category": "Sports",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-e44cd03c7b863bf49b42fca18f8e9079",
       "views": "6.9K",
-      "upvotes": "61",
+      "upvotes": 61,
       "comments": "10",
       "shares": "4"
     },
     {
       "id": 4,
+      "postid": 4,
       "username": "Nagendra Dangi",
       "user_desc": "Soccer Enthusiast",
       "title": "What does “G.O.A.T” mean in football?",
@@ -52,12 +66,13 @@
       "category": "Sports",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-9aa3188df7992a224e5c583a1b868c0c",
       "views": "5.9K",
-      "upvotes": "5",
+      "upvotes": 7,
       "comments": "3",
       "shares": "2"
     },
     {
       "id": 5,
+      "postid": 5,
       "username": "Nitesh Lanjewar",
       "user_desc": "Science Lover",
       "title": "What is the scientific name of water?",
@@ -66,12 +81,13 @@
       "category": "Science",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-98363457416f65acbd5ca76f4f3ea5d0-lq",
       "views": "13",
-      "upvotes": "5",
+      "upvotes": 5,
       "comments": "3",
       "shares": "1"
     },
     {
       "id": 6,
+      "postid": 6,
       "username": "Bhaskar Ganesh Naik",
       "user_desc": "Science Facts Explorer",
       "title": "What is your scientific fact of the day 465?",
@@ -80,12 +96,13 @@
       "category": "Science",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-597997598346addcc3e87e26cb333a27-lq",
       "views": "109.5K",
-      "upvotes": "130",
+      "upvotes": 130,
       "comments": "17",
       "shares": "2"
     },
     {
       "id": 7,
+      "postid": 7,
       "username": "Nagendra Dangi",
       "user_desc": "Science Explorer",
       "title": "What are some amazing science facts which can get 886644k views?",
@@ -94,12 +111,13 @@
       "category": "Science",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-eb33c7ee0bd5b05880fd599034349209-lq",
       "views": "8.3K",
-      "upvotes": "100",
+      "upvotes": 100,
       "comments": "1",
       "shares": "1"
     },
     {
       "id": 8,
+      "postid": 8,
       "username": "Mayank Sharma",
       "user_desc": "Science Enthusiast",
       "title": "If scientists say the universe will end in 5 billion years, but we can see galaxies 12 billion light years away, has the universe already ended?",
@@ -108,12 +126,13 @@
       "category": "Science",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-439e0efb33429b3d20579be093c8e8c0-pjlq",
       "views": "18.6K",
-      "upvotes": "64",
+      "upvotes": 64,
       "comments": "9",
       "shares": "1"
     },
     {
       "id": 9,
+      "postid": 9,
       "username": "Nitesh Lanjewar",
       "user_desc": "Health Freak",
       "title": "What is the best way to take care of myself as I age?",
@@ -122,12 +141,13 @@
       "category": "Health",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-6cb76a6de6570ce1e68d353b0bb30465",
       "views": "85.3K",
-      "upvotes": "90",
+      "upvotes": 91,
       "comments": "11",
       "shares": "3"
     },
     {
       "id": 10,
+      "postid": 10,
       "username": "Roshan Kumar",
       "user_desc": "Health and Diet expert",
       "title": "How does the ketogenic diet work?",
@@ -136,12 +156,13 @@
       "category": "Health",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-6e8c4f10667b06521b75cd446f49df35-lq",
       "views": "11K",
-      "upvotes": "39",
+      "upvotes": 39,
       "comments": "14",
       "shares": "6"
     },
     {
       "id": 11,
+      "postid": 11,
       "username": "Nagendra Dangi",
       "user_desc": "Movies Lover",
       "title": "What are some screenshots deserves 800k views?",
@@ -150,12 +171,13 @@
       "category": "Movies",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-6ac14f40ca8994f8f0287b187f978e86",
       "views": "2.4K",
-      "upvotes": "389",
+      "upvotes": 389,
       "comments": "3",
       "shares": "1"
     },
     {
       "id": 12,
+      "postid": 12,
       "username": "Bhaskar Ganesh Naik",
       "user_desc": "Movies Lover",
       "title": "How can you tell if a movie scene is CGI?",
@@ -164,12 +186,13 @@
       "category": "Movies",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-e02e73c5c3adc58bea4b0578c2402c93-lq",
       "views": "1.7K",
-      "upvotes": "26",
+      "upvotes": 26,
       "comments": "1",
       "shares": "1"
     },
     {
       "id": 13,
+      "postid": 13,
       "username": "Nitesh Lanjewar",
       "user_desc": "Tech Enthusiast",
       "title": "What are your thoughts and opinions about technology?",
@@ -178,12 +201,13 @@
       "category": "Technology",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-f34fe455bced2c311562b84e609c21be",
       "views": "4.9K",
-      "upvotes": "47",
+      "upvotes": 47,
       "comments": "25",
       "shares": "16"
     },
     {
       "id": 14,
+      "postid": 14,
       "username": "Bhaskar Ganesh Naik",
       "user_desc": "Tech Enthusiast",
       "title": "What do you think technology will look like after 20 years?",
@@ -192,7 +216,7 @@
       "category": "Technology",
       "image": "https://qph.cf2.quoracdn.net/main-qimg-60a7a64815baeeace72ee5b3135eb16f-lq",
       "views": "3.0K",
-      "upvotes": "63",
+      "upvotes": 63,
       "comments": "17",
       "shares": "6"
     }
